@@ -1,6 +1,6 @@
 # Jarkom-Modul-5-B04-2022
 
-## Praktikum Jaringan Komputer Modul 5 - Subnetting & Routing
+## Praktikum Jaringan Komputer Modul 5 - Firewall
 NRP | Nama
 -----------|---------------------------
 5025201025 | Dawamul Fikri Aqil
